@@ -35,16 +35,64 @@
 21. <a href="https://www.copysmith.ai/">Copysmith</a>: An AI-powered tool that generates unique and creative marketing copy for businesses.
 22. <a href="https://viableapp.com/">Viable</a>: A product feedback management tool that helps teams prioritize feedback, track progress, and communicate with customers.
 23. <a href="https://www.algolia.com/">Algolia</a>: A search-as-a-service platform that provides real-time search results with typo-tolerance and synonym matching.
-24. <a href="https://jasperproject.github.io/">Sapling</a>: An AI-powered platform that automates HR tasks such as onboarding, training, and employee engagement.
-25. <a href="https://jasperproject.github.io/">Writesonic</a>: An AI-powered tool that generates blog posts, product descriptions, and other types of content for businesses.
-26. <a href="https://jasperproject.github.io/">ActiveChat</a>: A conversational AI platform that allows businesses to create chatbots for websites, apps, and messaging platforms.
-27. <a href="https://jasperproject.github.io/">JarvisLabs.ai</a>: A virtual writing assistant that uses AI to suggest improvements to writing style, grammar, and syntax.
-28. <a href="https://jasperproject.github.io/">Smartwriter.ai</a>: An AI-powered writing assistant that suggests improvements to writing style, tone, and structure.
+24. <a href="https://sapling.ai/grammar-check">Sapling</a>: An AI-powered platform that automates HR tasks such as onboarding, training, and employee engagement.
+25. <a href="https://writesonic.com/">Writesonic</a>: An AI-powered tool that generates blog posts, product descriptions, and other types of content for businesses.
+26. <a href="https://activechat.ai/">ActiveChat</a>: A conversational AI platform that allows businesses to create chatbots for websites, apps, and messaging platforms.
+27. <a href="https://jarvislabs.ai/">JarvisLabs.ai</a>: A virtual writing assistant that uses AI to suggest improvements to writing style, grammar, and syntax.
+28. <a href="https://www.smartwriter.ai/">Smartwriter.ai</a>: An AI-powered writing assistant that suggests improvements to writing style, tone, and structure.
 
 ## Observability and Development Tools
 
-29. <a href="https://jasperproject.github.io/">Zebrium</a>: An observability platform that uses machine learning to automatically detect and diagnose software issues in real-time.
-30. <a href="https://jasperproject.github.io/">Debuild</a>: A tool that simplifies the creation and management of Debian packages for software projects.
-31. <a href="https://jasperproject.github.io/">Tabulate</a>: A Python library for creating tables in terminal environments with ASCII art borders and alignment.
-32. <a href="https://jasperproject.github.io/">SeekWell</a>: A tool that enables users to create, edit, and schedule SQL queries in Google Sheets, without leaving the spreadsheet.
+29. <a href="https://www.zebrium.com/">Zebrium</a>: An observability platform that uses machine learning to automatically detect and diagnose software issues in real-time.
+30. <a href="https://debuild.app/">Debuild</a>: A tool that simplifies the creation and management of Debian packages for software projects.
+31. <a href="https://tabulate.com/">Tabulate</a>: A Python library for creating tables in terminal environments with ASCII art borders and alignment.
+32. <a href="https://www.seekwell.io/">SeekWell</a>: A tool that enables users to create, edit, and schedule SQL queries in Google Sheets, without leaving the spreadsheet.
 
+## AI-powered Text Generation
+
+33. <a href="https://play.aidungeon.io/">AI Dungeon</a>:A text-based adventure game that uses GPT-3 to generate game content and responses to player inputs.
+34. <a href="https://github.com/Madawei2699/MyGPTReader">Madawei2699/MyGPTReader</a>:  An open-source tool that uses GPT models to generate summaries of long-form text, such as articles or documents.
+35. <a href="https://github.com/Yihong0618/Xiaogpt">Yihong0618/Xiaogpt </a>: An open-source tool that uses GPT models to generate text-based responses to user input for conversational agents.
+36. <a href="Leizhenpeng/Feishu-ChatGPT">Leizhenpeng/Feishu-ChatGPT</a>: A Feishu app that generates text-based responses using GPT models for conversational agents.
+37. <a href="https://github.com/Fuergaosi233/WeChat-ChatGPT">Fuergaosi233/WeChat-ChatGPT</a>: A WeChat mini-program that generates text-based responses using GPT models for conversational agents.
+38. <a href="https://github.com/wong2/chatgpt-google-extension">Wong2/ChatGPT-Google-Extension</a>: A browser extension that generates text-based responses using GPT models for Google Chat.
+39. <a href="https://github.com/Vincelwt/ChatGPT-Mac">Vincelwt/ChatGPT-Mac</a>:A macOS application that generates text-based responses using GPT models for conversational agents.
+41. <a href="https://github.com/mpociot/chatgpt-vscode">Mpociot/ChatGPT-VSCode</a>: A VSCode extension that provides a chat window for generating text-based responses using GPT models.
+42. <a href="https://github.com/m1guelpf/chatgpt-telegram">M1guelpf/ChatGPT-Telegram</a>: A Telegram bot that generates text-based responses using GPT models for conversational agents.
+43. <a href="https://github.com/gragland/chatgpt-chrome-extension">Gragland/ChatGPT-Chrome-Extension</a>:A browser extension that generates text-based responses using GPT models for Facebook Messenger.
+44. <a href="https://www.headline.ai/">Headline</a>: An AI-powered tool that generates attention-grabbing headlines for blog posts and articles.
+45. <a href="https://anyword.com/">Anyword</a>: An AI-powered tool that generates creative and catchy taglines, slogans, and headlines for businesses.
+46. <a href="https://headlime.ai/">Headlime</a>: AI copywriting tool that generates headlines and article summaries based on user input.
+47. <a href="https://chrome.google.com/webstore/detail/promptheus-converse-with/eipjdkbchadnamipponehljdnflolfki?hl=en-GB">Promptheus</a>: Generate text in your browser with OpenAI's GPT-3 model.
+48. <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf">ChatGPT for Google </a>: Use GPT-3 to write emails, create calendar events, and more in Google Workspace.
+49. <a href="https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT">YouTube Summarizer with ChatGPT </a>: Automatically summarize YouTube videos using GPT-3.
+50. <a href="https://www.textbff.com/?ref=producthunt">BFF </a>: Make ChatGPT As Your Friend - Chat with GPT-3 in a friendly, conversational way.
+51. <a href="https://getrobinai.live/exclusive/">Robin AI </a>: An AI Tool that helps you create ‘internet assets” like Marketing Copy for your Landing Pages, Websites, Stunning Graphics like Banners, Visuals, Graphics, and more in minutes.
+52. <a href="https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec">Merlin </a>: A chatbot powered by GPT-3 that can answer questions, tell jokes, and more.
+53. <a href="https://godinabox.co/">God In A Box </a>: A tool that connects with whatsapp using GPT-3.
+54. <a href="https://goodsnooze.gumroad.com/l/menugpt?ref=producthunt">Menu GPT </a>: Talk to ChatGPT in your menubar
+55. <a href="https://www.hubble.ai/">Hubble </a>: Start shipping AI apps that move your business forward. Stop pasting text into ChatGPT, wrangling your data to work with AI models, and cobbling tools together to use AI.
+56. <a href="https://hyperwriteai.com/">HyperWrite </a>: AI-powered writing assistant that helps improve writing productivity and accuracy.
+
+## AI-powered Applications
+
+57. <a href="https://casetext.com/">Casetext</a>: A legal research platform that uses AI to provide relevant case law, statutes, and regulations to lawyers.
+58. <a href="https://magicsalesbot.com/">Magic Sales Bot </a>: An AI-powered sales chatbot that engages with prospects, qualifies leads, and schedules meetings.
+59. <a href="https://www.quickchat.ai/">Quickchat </a>: A chatbot-building platform that allows businesses to create custom chatbots for customer support, sales, and marketing.
+60. <a href="https://chatbotui.com/">McKayWrigley/Chatbot-UI-Pro </a>: A UI toolkit for building conversational agents with GPT models, designed for use with React.
+61. <a href="https://www.replier.ai/">Replier.ai </a>: AI chatbot builder for businesses to create conversational experiences for customers.
+62. <a href="https://openai.com/product/dall-e-2">Dall-E 2 </a>: AI language model trained by OpenAI to generate unique images from textual descriptions.
+63. <a href="https://epsilon.shreenabh.com/">Epsilon Code </a>: AI-powered code autocompletion and error detection tool for developers.
+64. <a href="https://github.com/themesberg/gpt-3-tailwindcss">GPT-3 Tailwind CSS </a>: A Tailwind CSS plugin that generates utility classes based on the design styles of GPT-3-generated UIs.
+65. <a href="https://messagebird.com/en/">MessageBird </a>: Cloud communications platform enabling businesses to communicate with customers via SMS, voice, and chat.
+66. <a href="https://ossinsight.io/">PingCAP/OSSInsight </a>: A web-based application that analyzes open-source projects and provides insights on their contribution metrics and community health.
+67. <a href="https://abtesting.ai/">ABtesting.ai </a>: AI-powered A/B testing platform for website optimization and conversion rate improvement.
+68. <a href="https://www.fable-studio.com/">Fable Studio</a>: A platform that uses AI to transcribe, translate, and caption audio and video content in real-time.
+69. <a href="https://www.zerogpt.com/">ZeroGPT </a>: Detect chatGPT content for Free, simple way & High accuracy. OpenAI detection tool.
+70. <a href="https://detectgpt.ericmitchell.ai/">Detect GPT </a>: Find out if the pages you browse contain AI-generated content.
+71. <a href="https://gptzero.me/">GPTZero </a>: CGPTZero turns the very technologies used to build ChatGPT around — to detect AI.
+72. <a href="https://poe.com/">Poe </a>: Quora's chatbot including Sage, Dragonfly, ChatGPT & Claude!
+73. <a href="https://github.com/abhagsain/ai-cli">AI CLI </a>: Get answers for CLI commands from GPT3 right from your terminal.
+74. <a href="https://bito.ai/">Bito </a>: Generate Amazing Code/code comments,10x faster with ChatGPT.
+75. <a href="https://codesnippets.ai/">Code Snippets </a>: Turn Your Questions Into Code, with ChatGPT!
+76. <a href="https://www.youchat.com/">Youchat </a>: YouChat, like every other ChatGPT alternative, is powered by OpenAI's GPT-3.5 AI model.
