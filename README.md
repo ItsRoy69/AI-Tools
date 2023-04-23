@@ -25,6 +25,42 @@
 17. <a href="https://github.com/mpociot/chatgpt-vscode">Mpociot/ChatGPT-VSCode</a>: A VSCode extension that provides a chat window for generating text-based responses using GPT models.
 18. <a href="https://t.me/gpt_chatbot">M1guelpf/ChatGPT-Telegram</a>: A Telegram bot that generates text-based responses using GPT models for conversational agents.
 19. <a href="https://www.genei.io/">Genei</a>: NLP tool for document analysis, data extraction, and translation.
+19. <a href="https://www.tymely.ai/">Tymely</a>: An AI that supports customer service tickets much better than real agents
+19. <a href="https://www.lang.ai/">Lang</a>: An AI-powered platform that provides natural language processing solutions for customer service and conversational analytics.
+19. <a href="https://poly.ai/">Poly AI</a>: AI-powered conversational platform that provides businesses with scalable and personalized customer service solutions.
+19. <a href="https://www.incentivai.co/?ref=Welcome.AI">Incentivai</a>: Incentivai is using machine learning and human-like AI agents to simulate and test mechanism design of complex systems such as blockchain smart contract economies.
+19. <a href="https://kasisto.com/">Kasisto</a>: An AI-powered digital assistant that helps financial institutions deliver personalized banking experiences to their customers.
+19. <a href="https://www.eliseai.com/">Elise AI</a>: An AI-powered marketing assistant that helps businesses generate content, run ads, and optimize campaigns.
+19. <a href="https://verloop.io/">Verloop</a>: A conversational AI platform that enables businesses to automate customer support, sales, and marketing interactions through chatbots.
+19. <a href="https://www.ultimate.ai/">Ultimate</a>: A conversational AI platform that helps businesses automate customer service, sales, and support with its advanced AI technology.
+19. <a href="https://www.ada.cx/">Ada</a>: An AI-powered chatbot platform that enables businesses to automate customer support and engage with customers in a personalized way.
+19. <a href="https://sapling.ai/">Sapling</a>: An AI-powered HR platform that automates tasks such as onboarding, training, and employee engagement for organizations.
+19. <a href="https://www.balto.ai/">Balto</a>: A real-time call guidance software that helps sales and support reps optimize conversations and improve customer experience.
+19. <a href="https://www.observe.ai/">Observe</a>: An AI-powered platform that provides insights and analytics for call centers to improve customer experience and agent performance.
+19. <a href="https://www.haptik.ai/">Haptik</a>: An AI-powered conversational platform that offers chatbot and voicebot solutions for businesses and customer support.
+19. <a href="https://forethought.ai/">Forehthought AI</a>: An AI-powered platform that uses natural language processing to improve customer support and communication workflows.
+19. <a href="https://zubtitle.com/">Zubtitle</a>: AI-powered video transcription and captioning tool that uses advanced algorithms to create accurate and time-synchronized subtitles.
+19. <a href="https://terra.bio/">Terra</a>: An AI-powered marketing assistant that helps businesses generate content, run ads, and optimize campaigns.
+19. <a href="https://www.peech-ai.com/">Peech AI</a>: An AI-powered platform that offers real-time voice transcription and analysis for businesses and individuals.
+19. <a href="https://vochi.com/">Vochi AI</a>: An video editing app that uses AI-powered filters and effects to create stunning and unique videos.
+19. <a href="https://www.maverickai.com/">Maverick AI</a>: A startup that provides AI-powered solutions for the financial industry, including risk management and investment strategies.
+19. <a href="https://getrecut.com/">Recut AI</a>: A video editing platform that offers simple and affordable tools for creating engaging video content for social media.
+19. <a href="https://www.bosch-ai.com/">Bosch AI</a>: It offers a range of AI solutions and services for businesses, including machine learning, computer vision, and natural language processing.
+19. <a href="https://www.inworld.ai/">Inworld AI</a>: An AI-powered virtual event platform that offers immersive and interactive experiences for virtual events and conferences.
+19. <a href="https://www.wombo.ai/">Wombo AI</a>: An app that uses AI to create singing videos with a user's selfie image. It's popular on social media.
+19. <a href="https://www.tavus.io/">TavusIO</a>: A platform for creating AI-powered chatbots with customizable templates, integrations, and analytics to improve customer experience.
+19. <a href="https://runwayml.com/">RunwayML </a>: A platform for creating and deploying machine learning models in various fields such as art, music, and fashion.
+19. <a href="https://moveo.ai/">Moveo </a>: An AI-powered platform for automating HR processes, such as recruitment, onboarding, and performance management for businesses.
+19. <a href="https://pictory.ai/">Pictory </a>: An AI-powered platform that automates the process of creating engaging and personalized videos for social media marketing.
+19. <a href="https://www.yepic.ai/">Yepic </a>: A platform that uses AI to automate the process of creating and optimizing social media ads for businesses.
+19. <a href="https://www.steve.ai/">Steve AI </a>: An AI-powered platform that automates employee expense management, saving businesses time and money.
+19. <a href="https://metaphysic.ai/">Metaphysic </a>: An AI-powered platform that helps businesses optimize their marketing efforts and improve customer engagement through data analysis.
+19. <a href="https://www.colossyan.com/">Colossyan </a>: Create videos with AI actors - stop spending your time on studios
+19. <a href="https://windsor.ai/">Windsor </a>: A marketing intelligence platform that offers AI-powered insights and optimization for advertising campaigns across multiple channels.
+19. <a href="https://www.sembly.ai/">Sembly </a>: A platform that provides real-time insights and analytics for virtual events, conferences, and webinars.
+19. <a href="https://www.xembly.com/">Xembly </a>: A library for transforming XML documents. It uses a simple, declarative language to specify the transformations.
+19. <a href="https://www.steve.ai/">Steve </a>: A chatbot for Slack that automates administrative tasks and provides data analytics and insights to improve workplace productivity.
+19. <a href="https://lumen5.com/">Lumen5 </a>: A video creation platform that uses AI to transform written content into engaging videos with ease.
 
 ## Voice Recognition and AI Frameworks
 
@@ -139,3 +175,22 @@
 75. <a href="https://codesnippets.ai/">Code Snippets </a>: Turn Your Questions Into Code, with ChatGPT!
 76. <a href="https://www.youchat.com/">Youchat </a>: YouChat, like every other ChatGPT alternative, is powered by OpenAI's GPT-3.5 AI model.
 77. <a href="https://www.cogram.com/">Cogram</a>: Cogram uses AI to take notes in virtual meetings, track action items, and automate downstream tasks, while keeping your data private and secure.
+75. <a href="https://www.hebbia.ai/">Hebbia </a>: AI tool that simplifies research collaboration and enhances information discovery using NLP
+75. <a href="https://www.consensus.app/">Consensus </a>: A search engine that uses AI to extract and distill findings directly from scientific research
+75. <a href="https://vectara.com/">Vectara </a>: A LLM-powered search-as-a-service. The platform provides a complete ML search pipeline from extraction and indexing to retrieval, re-ranking and calibration.
+75. <a href="https://www.pilot.ai/">Pilot AI </a>:  A tool for sales representatives which automatically turns call recordings into structured information that directly updates the CRM.
+75. <a href="https://gretel.ai">Gretel API </a>:  Gretel's APIs automatically fine-tune custom AI models and generate synthetic data that's as good or better than what you already have.
+75. <a href="https://www.syntegra.io/">Syntegra </a>:  Syntegra creates accurate, privacy-preserved synthetic data that bridges the gap between your organization’s data privacy and data science needs.
+75. <a href="https://www.dataherald.com/">Data Herald</a>:  The first generative AI platform purpose-built for data content Combine GPT with your company data and over 1k+ pre-connected data sources.
+75. <a href="https://mirry.ai/main">Mirry AI</a>:  Improve the return on your AI investments with Mirry's data-centric AI platform.
+75. <a href="https://www.bifrost.ai/">Bifrost AI</a>:  Quickly and easily generate diverse and realistic synthetic data and high-fidelity 3D worlds to enhance model performance.
+75. <a href="https://datagen.tech/">Datagen AI</a>:  Write your own code to test and train your models by generating the exact synthetic data you need.
+
+
+
+## Gaming
+
+75. <a href="https://charisma.ai/">Charisma </a>: Charisma is an easy-to-use platform to create believable and lifelike characters.
+75. <a href="https://www.hiddendoor.co/">Hidden Door </a>: A customizable virtual event platform offering immersive experiences for businesses and organizations.
+75. <a href="https://latitude.io/">Latitude </a>: Latitude creates AI-powered worlds for entertainment and exploration, advancing technology and shared discovery.
+75. <a href="https://spellbrush.com/">Spellbrush </a>: A digital art studio creating unique, dreamlike visuals using algorithmic techniques and AI.
